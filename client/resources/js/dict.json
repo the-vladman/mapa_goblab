@@ -1,0 +1,447 @@
+[
+  {
+    "id": 1,
+    "nombre": "Población total",
+    "clave": "POB1"
+  },
+  {
+    "id": 2,
+    "nombre": "Población total de 0 a 2 años",
+    "clave": "POB2"
+  },
+  {
+    "id": 3,
+    "nombre": "Población de 0 a 14 años",
+    "clave": "POB8"
+  },
+  {
+    "id": 4,
+    "nombre": "Población de 15 años y más",
+    "clave": "POB20"
+  },
+  {
+    "id": 5,
+    "nombre": "Población de 18 años y más",
+    "clave": "POB21"
+  },
+  {
+    "id": 6,
+    "nombre": "Población de 65 años y más",
+    "clave": "POB24"
+  },
+  {
+    "id": 7,
+    "nombre": "Población femenina",
+    "clave": "POB31"
+  },
+  {
+    "id": 8,
+    "nombre": "Población femenina de 0 a 2 años",
+    "clave": "POB32"
+  },
+  {
+    "id": 9,
+    "nombre": "Población femenina de 0 a 14 años",
+    "clave": "POB38"
+  },
+  {
+    "id": 10,
+    "nombre": "Población femenina de 15 años y más",
+    "clave": "POB51"
+  },
+  {
+    "id": 11,
+    "nombre": "Población femenina de 18 años y más",
+    "clave": "POB52"
+  },
+  {
+    "id": 12,
+    "nombre": "Población femenina de 65 años y más",
+    "clave": "POB55"
+  },
+  {
+    "id": 13,
+    "nombre": "Población masculina",
+    "clave": "POB57"
+  },
+  {
+    "id": 14,
+    "nombre": "Población masculina de 0 a 2 años",
+    "clave": "POB58"
+  },
+  {
+    "id": 15,
+    "nombre": "Población masculina de 0 a 14 años",
+    "clave": "POB64"
+  },
+  {
+    "id": 16,
+    "nombre": "Población masculina de 15 años y más",
+    "clave": "POB76"
+  },
+  {
+    "id": 17,
+    "nombre": "Población masculina de 18 años y más",
+    "clave": "POB77"
+  },
+  {
+    "id": 18,
+    "nombre": "Población masculina de 65 años y más",
+    "clave": "POB80"
+  },
+  {
+    "id": 19,
+    "nombre": "Población nacida en otra entidad",
+    "clave": "MIG4"
+  },
+  {
+    "id": 20,
+    "nombre": "Población femenina nacida en otra entidad",
+    "clave": "MIG5"
+  },
+  {
+    "id": 21,
+    "nombre": "Población masculina nacida en otra entidad",
+    "clave": "MIG6"
+  },
+  {
+    "id": 22,
+    "nombre": "Población nacida en otro país",
+    "clave": "MIG7"
+  },
+  {
+    "id": 23,
+    "nombre": "Población de 3 años y más que habla alguna lengua indígena",
+    "clave": "INDI1"
+  },
+  {
+    "id": 24,
+    "nombre": "Población femenina de 3 años y más que habla alguna lengua indígena",
+    "clave": "INDI2"
+  },
+  {
+    "id": 25,
+    "nombre": "Población masculina de 3 años y más que habla alguna lengua indígena",
+    "clave": "INDI3"
+  },
+  {
+    "id": 26,
+    "nombre": "Hogares censales indígenas",
+    "clave": "INDI20"
+  },
+  {
+    "id": 27,
+    "nombre": "Población con discapacidad",
+    "clave": "DISC1"
+  },
+  {
+    "id": 28,
+    "nombre": "Población femenina con discapacidad",
+    "clave": "DISC2"
+  },
+  {
+    "id": 29,
+    "nombre": "Población masculina con discapacidad",
+    "clave": "DISC3"
+  },
+  {
+    "id": 30,
+    "nombre": "Población de 0 a 14 años con discapacidad",
+    "clave": "DISC4"
+  },
+  {
+    "id": 31,
+    "nombre": "Población de 15 a 59 años con discapacidad",
+    "clave": "DISC5"
+  },
+  {
+    "id": 32,
+    "nombre": "Población de 60 años y más con discapacidad",
+    "clave": "DISC6"
+  },
+  {
+    "id": 33,
+    "nombre": "Población con discapacidad derechohabiente a servicios de salud",
+    "clave": "DISC14"
+  },
+  {
+    "id": 34,
+    "nombre": "Población de 6 a 11 años que no asiste a la escuela",
+    "clave": "EDU10"
+  },
+  {
+    "id": 35,
+    "nombre": "Población femenina de 6 a 11 años que no asiste a la escuela",
+    "clave": "EDU11"
+  },
+  {
+    "id": 36,
+    "nombre": "Población masculina de 6 a 11 años que no asiste a la escuela",
+    "clave": "EDU12"
+  },
+  {
+    "id": 37,
+    "nombre": "Población de 12 a 14 años que no asiste a la escuela",
+    "clave": "EDU16"
+  },
+  {
+    "id": 38,
+    "nombre": "Población femenina de 12 a 14 años que no asiste a la escuela",
+    "clave": "EDU17"
+  },
+  {
+    "id": 39,
+    "nombre": "Población masculina de 12 a 14 años que no asiste a la escuela",
+    "clave": "EDU18"
+  },
+  {
+    "id": 40,
+    "nombre": "Población de 15 años y más analfabeta",
+    "clave": "EDU28"
+  },
+  {
+    "id": 41,
+    "nombre": "Población femenina de 15 años y más analfabeta",
+    "clave": "EDU29"
+  },
+  {
+    "id": 42,
+    "nombre": "Población masculina de 15 años y más analfabeta",
+    "clave": "EDU30"
+  },
+  {
+    "id": 43,
+    "nombre": "Población de 15 años y más sin escolaridad",
+    "clave": "EDU31"
+  },
+  {
+    "id": 44,
+    "nombre": "Población femenina de 15 años y más sin escolaridad",
+    "clave": "EDU32"
+  },
+  {
+    "id": 45,
+    "nombre": "Población masculina de 15 años y más sin escolaridad",
+    "clave": "EDU33"
+  },
+  {
+    "id": 46,
+    "nombre": "Población de 15 años y más con educación básica incompleta",
+    "clave": "EDU34"
+  },
+  {
+    "id": 47,
+    "nombre": "Población femenina de 15 años y más con educación básica incompleta",
+    "clave": "EDU35"
+  },
+  {
+    "id": 48,
+    "nombre": "Población masculina de 15 años y más con educación básica incompleta",
+    "clave": "EDU36"
+  },
+  {
+    "id": 49,
+    "nombre": "Población de 15 años y más con educación básica completa",
+    "clave": "EDU37"
+  },
+  {
+    "id": 50,
+    "nombre": "Población femenina de 15 años y más con educación básica completa",
+    "clave": "EDU38"
+  },
+  {
+    "id": 51,
+    "nombre": "Población masculina de 15 años y más con educación básica completa",
+    "clave": "EDU39"
+  },
+  {
+    "id": 52,
+    "nombre": "Población de 15 años y más con educación pos-básica",
+    "clave": "EDU40"
+  },
+  {
+    "id": 53,
+    "nombre": "Población femenina de 15 años y más con educación pos-básica",
+    "clave": "EDU41"
+  },
+  {
+    "id": 54,
+    "nombre": "Población masculina de 15 años y más con educación pos-básica",
+    "clave": "EDU42"
+  },
+  {
+    "id": 55,
+    "nombre": "Población de 18 años y más con al menos un grado aprobado en educación media superior",
+    "clave": "EDU43"
+  },
+  {
+    "id": 56,
+    "nombre": "Población femenina de 18 años y más con al menos un grado aprobado en educación media superior",
+    "clave": "EDU44"
+  },
+  {
+    "id": 57,
+    "nombre": "Población masculina de 18 años y más con al menos un grado aprobado en educación media superior",
+    "clave": "EDU45"
+  },
+  {
+    "id": 58,
+    "nombre": "Población de 25 años y más con al menos un grado aprobado en educación superior",
+    "clave": "EDU46"
+  },
+  {
+    "id": 59,
+    "nombre": "Población femenina de 25 años y más con al menos un grado aprobado en educación superior",
+    "clave": "EDU47"
+  },
+  {
+    "id": 60,
+    "nombre": "Población masculina de 25 años y más con al menos un grado aprobado en educación superior",
+    "clave": "EDU48"
+  },
+  {
+    "id": 61,
+    "nombre": "Población económicamente activa",
+    "clave": "ECO1"
+  },
+  {
+    "id": 62,
+    "nombre": "Población femenina económicamente activa",
+    "clave": "ECO2"
+  },
+  {
+    "id": 63,
+    "nombre": "Población masculina económicamente activa",
+    "clave": "ECO3"
+  },
+  {
+    "id": 64,
+    "nombre": "Población ocupada",
+    "clave": "ECO4"
+  },
+  {
+    "id": 65,
+    "nombre": "Población femenina ocupada",
+    "clave": "ECO5"
+  },
+  {
+    "id": 66,
+    "nombre": "Población masculina ocupada",
+    "clave": "ECO6"
+  },
+  {
+    "id": 67,
+    "nombre": "Población desocupada",
+    "clave": "ECO25"
+  },
+  {
+    "id": 68,
+    "nombre": "Población femenina desocupada",
+    "clave": "ECO26"
+  },
+  {
+    "id": 69,
+    "nombre": "Población masculina desocupada",
+    "clave": "ECO27"
+  },
+  {
+    "id": 70,
+    "nombre": "Población no económicamente activa",
+    "clave": "ECO28"
+  },
+  {
+    "id": 71,
+    "nombre": "Población femenina no económicamente activa",
+    "clave": "ECO29"
+  },
+  {
+    "id": 72,
+    "nombre": "Población masculina no económicamente activa",
+    "clave": "ECO30"
+  },
+  {
+    "id": 73,
+    "nombre": "Total de hogares censales",
+    "clave": "HOGAR1"
+  },
+  {
+    "id": 74,
+    "nombre": "Hogares censales con jefatura femenina",
+    "clave": "HOGAR2"
+  },
+  {
+    "id": 75,
+    "nombre": "Hogares censales con jefatura masculina",
+    "clave": "HOGAR3"
+  },
+  {
+    "id": 76,
+    "nombre": "Población en hogares censales",
+    "clave": "HOGAR4"
+  },
+  {
+    "id": 77,
+    "nombre": "Población en hogares censales con jefatura femenina",
+    "clave": "HOGAR5"
+  },
+  {
+    "id": 78,
+    "nombre": "Población en hogares censales con jefatura masculina",
+    "clave": "HOGAR6"
+  },
+  {
+    "id": 79,
+    "nombre": "Viviendas particulares habitadas con más de 2.5 ocupantes por dormitorio",
+    "clave": "VIV9"
+  },
+  {
+    "id": 80,
+    "nombre": "Viviendas particulares habitadas que no disponen de agua entubada en el ámbito de la vivienda",
+    "clave": "VIV17"
+  },
+  {
+    "id": 81,
+    "nombre": "Viviendas particulares habitadas que no disponen de excusado o sanitario",
+    "clave": "VIV20"
+  },
+  {
+    "id": 82,
+    "nombre": "Viviendas particulares habitadas que no disponen de drenaje",
+    "clave": "VIV23"
+  },
+  {
+    "id": 83,
+    "nombre": "Viviendas particulares habitadas que no disponen de luz eléctrica, agua entubada en el ámbito de la vivienda y drenaje",
+    "clave": "VIV25"
+  },
+  {
+    "id": 84,
+    "nombre": "Viviendas particulares habitadas que disponen de teléfono celular",
+    "clave": "VIV35"
+  },
+  {
+    "id": 85,
+    "nombre": "Viviendas particulares habitadas que disponen de internet",
+    "clave": "VIV36"
+  },
+  {
+    "id": 86,
+    "nombre": "Viviendas particulares habitadas sin radio ni televisor",
+    "clave": "VIV37"
+  },
+  {
+    "id": 87,
+    "nombre": "Viviendas particulares habitadas sin línea telefónica ni teléfono celular",
+    "clave": "VIV38"
+  },
+  {
+    "id": 88,
+    "nombre": "Viviendas particulares habitadas sin computadoras ni internet",
+    "clave": "VIV39"
+  },
+  {
+    "id": 89,
+    "nombre": "Viviendas particulares habitadas sin tecnologías de la información y la comunicación (TIC)",
+    "clave": "VIV40"
+  }
+]
